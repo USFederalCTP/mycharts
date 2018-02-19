@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-02-19T13:44:04.029615406-08:00
+    description: A Helm chart for Kubernetes
+    digest: 8f136f012274eb3b95cc6111656fe7d330a0c5ab879f6b219d5256349a19d813
+    name: notificationchart
+    urls:
+    - https://USFederalCTP.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-02-19T13:44:04.029201609-08:00
